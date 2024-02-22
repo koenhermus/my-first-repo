@@ -1,0 +1,12 @@
+h1 {
+    color:pink;
+    font-size: 50px;
+}
+p {
+    color:red;
+}
+body{
+    background-color:lime;
+    background-image: url(../img/taylor-swift-gif.gif);
+    background-size: 70px;
+}
