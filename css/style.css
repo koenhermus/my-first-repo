@@ -3,10 +3,10 @@ h1 {
     font-size: 200px;
 }
 p {
-    color:black;
+    color:red;
 }
 body{
     background-color:lime;
     background-image: url(../img/taylor-swift-gif.gif);
-    background-size: 70px;
+    background-size: 50px;
 }
